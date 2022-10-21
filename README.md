@@ -37,9 +37,9 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar a ex
 ![image](https://user-images.githubusercontent.com/34819624/197207312-56bf1f8f-604d-4c2b-96da-3ff0b727cf8a.png)
 
   
- Em caso de duvidas, você pode entrar em contato conoscos para tirar qualquer tipo de duvida sobre a configuração da extensão
+Em caso de duvidas, você pode entrar em contato conoscos para tirar qualquer tipo de duvida sobre a configuração da extensão
  
-
+Email: contato@pontoparse.net
 
 
 
