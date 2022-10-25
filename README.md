@@ -41,5 +41,18 @@ Em caso de duvidas, você pode entrar em contato conoscos para tirar qualquer ti
  
 Email: contato@pontoparse.net
 
+# Exemplos de mensagens
 
+![image](https://user-images.githubusercontent.com/34819624/197789314-90df3b06-10a5-4365-b270-c7f95a828fa8.png)
+
+![image](https://user-images.githubusercontent.com/34819624/197789493-06244413-04a3-4b5c-81e4-2a9194fa2261.png)
+
+![image](https://user-images.githubusercontent.com/34819624/197789633-2513f57a-eed1-4874-9bb9-e86003f6276a.png)
+
+
+
+
+ Em caso de duvidas, você pode entrar em contato conoscos para tirar qualquer tipo de duvida sobre a configuração da extensão
+ 
+ Email: contato@pontoparse.net
 
