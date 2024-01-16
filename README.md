@@ -1,5 +1,5 @@
-![N|Solid](https://raw.githubusercontent.com/Wilkor/img-clonebots/main/logoParseHorizontal.jpeg)
 
+![icone_github](https://github.com/Wilkor/doc-plugin-tray/assets/34819624/3ae565b9-3de8-46f6-a835-07871d8aadd4)
 
 # Como utilizar a extensão Tray !
 
